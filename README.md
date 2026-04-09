@@ -35,12 +35,11 @@ I'm a DevOps Engineer with a strong interest in cloud infrastructure, automation
 
 ## GitHub Stats
 
-![Dipanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=DipanshuBisen&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![Dipanshu's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=DipanshuBisen&show_icons=true&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=DipanshuBisen)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DipanshuBisen&layout=compact&theme=tokyonight)
-
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DipanshuBisen&layout=compact&theme=tokyonight)
 ---
 
 ## Contributions
