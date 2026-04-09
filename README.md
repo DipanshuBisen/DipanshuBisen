@@ -17,7 +17,13 @@ I'm a DevOps Engineer with a strong interest in cloud infrastructure, automation
 ## Tech Stack & Tools
 
 <p align="left">
+  <!-- DevOps Tools -->
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,jenkins,python,git,github,prometheus,grafana,linux" />
+
+  <!-- IBM Tools -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_App_Connect_Logo.png" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/IBM_API_Connect_Logo.png" height="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/IBM_MQ_logo.png" height="45"/>
 </p>
 
 ---
