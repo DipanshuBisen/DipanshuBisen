@@ -31,12 +31,13 @@ I'm a DevOps Engineer with a strong interest in cloud infrastructure, automation
 
 ## What I Have Worked On
 
-- Deployed applications on Kubernetes using Deployments and Services
-- Worked with Docker for containerizing applications and managing images
-- Built basic CI/CD pipelines using Jenkins
-- Used Terraform for infrastructure provisioning (learning and implementing)
-- Monitored applications using Prometheus and Grafana
-- Worked on integration flows using IBM App Connect Enterprise (ACE)
+- Deployed and managed applications on Kubernetes using Deployments and Services, leveraging AWS cloud infrastructure
+- Containerized applications using Docker and managed images efficiently, integrating with Git & GitHub for version control
+- Built and maintained CI/CD pipelines using Jenkins to automate build, test, and deployment processes
+- Provisioned and managed infrastructure using Terraform and Ansible for configuration management and automation
+- Monitored application performance and system health using Prometheus and Grafana for real-time insights and alerting
+- Developed automation scripts using Python and Shell Scripting to streamline DevOps workflows
+- Worked on integration flows using IBM App Connect Enterprise (ACE) as part of enterprise system integration
 
 ---
 
@@ -61,7 +62,7 @@ I'm a DevOps Engineer with a strong interest in cloud infrastructure, automation
 
 ---
 
-## Notes
+## Note
 
 I try to keep my repositories clean and focused on practical implementations. Most of my work is based on learning-by-doing and solving real use cases.
 
