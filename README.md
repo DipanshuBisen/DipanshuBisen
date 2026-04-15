@@ -50,12 +50,6 @@ I'm a DevOps Engineer with a strong interest in cloud infrastructure, automation
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DipanshuBisen&layout=compact&theme=tokyonight)
 ---
 
-## Contributions
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME)
-
----
-
 ## Connect
 
 - Email: dipanshubisen15@gmail.com   
