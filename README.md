@@ -18,9 +18,11 @@ I'm a DevOps Engineer with a strong interest in cloud infrastructure, automation
 <p align="left">
   <!-- DevOps Tools -->
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,jenkins,python,git,github,prometheus,grafana,linux" />
- <img src="https://cdn.simpleicons.org/helm/FFFFFF" width="48" height="48"/>
-  <img src="https://cdn.simpleicons.org/argo" width="48" height="48"/>
-  <img src="https://cdn.simpleicons.org/jfrog" width="48" height="48"/>
+
+  <!-- Match Skill Icons size -->
+  <img src="https://cdn.simpleicons.org/helm/FFFFFF" width="40" height="40" alt="Helm"/>
+  <img src="https://cdn.simpleicons.org/argo" width="40" height="40" alt="Argo CD"/>
+  <img src="https://cdn.simpleicons.org/jfrog" width="40" height="40" alt="JFrog"/>
 </p>
 
 <p align="left">
