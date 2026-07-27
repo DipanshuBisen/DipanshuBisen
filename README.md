@@ -14,23 +14,22 @@ I'm a DevOps Engineer with a strong interest in cloud infrastructure, automation
 
 ---
 
-## Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
+
 <p align="left">
-  <!-- DevOps Tools -->
+  <!-- Main DevOps Tools -->
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,jenkins,python,git,github,prometheus,grafana,linux" />
- <img src="https://cdn.simpleicons.org/helm/FFFFFF" width="48" height="48"/>
-  <img src="https://cdn.simpleicons.org/argo" width="48" height="48"/>
-  <img src="https://cdn.simpleicons.org/jfrog" width="48" height="48"/>
+  <img src="https://cdn.simpleicons.org/helm/0F1689" width="48" height="48" />
+  <img src="https://cdn.simpleicons.org/argo/EF7B4D" width="48" height="48" />
+  <img src="https://cdn.simpleicons.org/jfrog/41BF47" width="48" height="48" />
 </p>
-
 
 <p align="left">
-  <!-- IBM Tools (fixed working badges) -->
-  <img src="https://img.shields.io/badge/IBM-ACE-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/IBM-MQ-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/IBM-APIC-blue?style=for-the-badge" />
+  <!-- IBM Tools -->
+  <img src="https://img.shields.io/badge/IBM-ACE-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
+  <img src="https://img.shields.io/badge/IBM-MQ-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
+  <img src="https://img.shields.io/badge/IBM-APIC-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
 </p>
-
 ---
 
 ## What I Have Worked On
