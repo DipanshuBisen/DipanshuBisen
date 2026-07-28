@@ -22,10 +22,10 @@ I'm a DevOps Engineer with a strong interest in cloud infrastructure, automation
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,jenkins,python,git,github,prometheus,grafana,linux" />
 </p>
 
-
+ <img src="https://www.svgrepo.com/svg/448231/helm" /> 
 <p align="left">
   <!-- IBM Tools (fixed working badges) -->
-  <img src="https://img.shields.io/badge/IBM-ACE-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/IBM-MQ-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/IBM-ACE-blue?style=for-the-badge" /> 
   <img src="https://img.shields.io/badge/IBM-MQ-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/IBM-APIC-blue?style=for-the-badge" />
 </p>
