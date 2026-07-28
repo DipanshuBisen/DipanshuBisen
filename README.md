@@ -17,35 +17,24 @@ I'm a DevOps Engineer with a strong interest in cloud infrastructure, automation
 ## 🛠️ Tech Stack & Tools
 
 
-<html>
-<head>
-<style>
-.row {
-    display: flex;
-    gap: 10px;           /* Space between images */
-    align-items: center;
-}
+<table>
+<tr>
+<td align="center">
+<img src="https://cdn.simpleicons.org/helm/FFFFFF" width="48" height="48"><br>
+Helm
+</td>
 
-.block {
-    border: 1px solid #ccc;   /* Optional */
-    padding: 10px;
-}
-</style>
-</head>
-<body>
+<td align="center">
+<img src="https://cdn.simpleicons.org/argo/EF7B4D" width="48" height="48"><br>
+ArgoCD
+</td>
 
-<div class="row">
-    <div class="block">
-        <img src="helm.svg" width="48" height="48">
-    </div>
-    <div class="block">
-        <img src="helm.svg" width="48" height="48">
-    </div>
-</div>
-
-</body>
-</html>
-
+<td align="center">
+<img src="https://cdn.simpleicons.org/jfrog/41BF47" width="48" height="48"><br>
+JFrog
+</td>
+</tr>
+</table>
 
 <p align="left">
   <!-- IBM Tools (fixed working badges) -->
