@@ -17,21 +17,14 @@ I'm a DevOps Engineer with a strong interest in cloud infrastructure, automation
 ## 🛠️ Tech Stack & Tools
 
 
-<table>
-<tr>
-<td align="center" width="60" height="50">
-<img src="https://cdn.simpleicons.org/helm/FFFFFF" width="80" height="80"><br>
-</td>
+<p align="left">
+  <!-- DevOps Tools -->
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,jenkins,python,git,github,prometheus,grafana,linux,jfrog" />
+ <img src="https://cdn.simpleicons.org/helm/FFFFFF" width="48" height="48"/>
+  <img src="https://cdn.simpleicons.org/argo" width="48" height="48"/>
+  <img src="https://cdn.simpleicons.org/jfrog" width="48" height="48"/>
+</p>
 
-<td align="center" width="60" height="50">
-<img src="https://cdn.simpleicons.org/argo/EF7B4D" width="80" height="80"><br>
-</td>
-
-<td align="center" width="60" height="50">
-<img src="https://cdn.simpleicons.org/jfrog/41BF47" width="80" height="80"><br>
-</td>
-</tr>
-</table>
 
 <p align="left">
   <!-- IBM Tools (fixed working badges) -->
