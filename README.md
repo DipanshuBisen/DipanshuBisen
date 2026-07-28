@@ -17,9 +17,9 @@ I'm a DevOps Engineer with a strong interest in cloud infrastructure, automation
 ## 🛠️ Tech Stack & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,jenkins" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,jenkins,python,git,github,prometheus,grafana,linux" />
 
-  <img src="https://skillicons.dev/icons?i=python,git,github,prometheus,grafana,linux" />
+
  
 
   <img src="https://cdn.simpleicons.org/helm/0F1689" width="48" height="48" alt="Helm"/>
