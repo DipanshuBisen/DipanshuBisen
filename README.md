@@ -21,17 +21,14 @@ I'm a DevOps Engineer with a strong interest in cloud infrastructure, automation
 <tr>
 <td align="center">
 <img src="https://cdn.simpleicons.org/helm/FFFFFF" width="48" height="48"><br>
-Helm
 </td>
 
 <td align="center">
 <img src="https://cdn.simpleicons.org/argo/EF7B4D" width="48" height="48"><br>
-ArgoCD
 </td>
 
 <td align="center">
 <img src="https://cdn.simpleicons.org/jfrog/41BF47" width="48" height="48"><br>
-JFrog
 </td>
 </tr>
 </table>
