@@ -20,15 +20,15 @@ I'm a DevOps Engineer with a strong interest in cloud infrastructure, automation
 <table>
 <tr>
 <td align="center" width="60" height="50">
-<img src="https://cdn.simpleicons.org/helm/FFFFFF" width="50" height="50"><br>
+<img src="https://cdn.simpleicons.org/helm/FFFFFF" width="80" height="80"><br>
 </td>
 
 <td align="center" width="60" height="50">
-<img src="https://cdn.simpleicons.org/argo/EF7B4D" width="50" height="50"><br>
+<img src="https://cdn.simpleicons.org/argo/EF7B4D" width="80" height="80"><br>
 </td>
 
 <td align="center" width="60" height="50">
-<img src="https://cdn.simpleicons.org/jfrog/41BF47" width="50" height="50"><br>
+<img src="https://cdn.simpleicons.org/jfrog/41BF47" width="80" height="80"><br>
 </td>
 </tr>
 </table>
