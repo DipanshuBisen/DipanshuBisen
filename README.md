@@ -16,7 +16,7 @@ I'm a DevOps Engineer with a strong interest in cloud infrastructure, automation
 
 ## 🛠️ Tech Stack & Tools
 
-<!DOCTYPE html>
+
 <html>
 <head>
 <style>
