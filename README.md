@@ -21,8 +21,6 @@ I'm a DevOps Engineer with a strong interest in cloud infrastructure, automation
   <!-- DevOps Tools -->
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,jenkins,python,git,github,prometheus,grafana,linux" />
 </p>
-
- <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMTYgMTYiPgoJPHBhdGggZD0iTTAgMGgxNnYxNkgweiIgZmlsbD0ibm9uZSIgLz4KCTxwYXRoIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzhhYWRmNCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBkPSJNMy41IDExLjVDNC40OCAxMi42MiA2LjUyIDEzIDggMTNzMy41Mi0uMzggNC41LTEuNU04IDEzdjIuNW0tNC0zTDMgMTRtOS0xLjVsMSAxLjVNMy41IDQuNUM0LjQ4IDMuMzggNi41MiAzIDggM3MzLjUyLjM4IDQuNSAxLjVNOCAzVi41bS00IDNMMyAybTkgMS41TDEzIDJtMS41IDcuNXYtM0wxMyA4bC0xLjUtMS41djNtLTMtM3YzSDEwbS0zLTNINS41djNIN001LjUgOGgxbS01LTEuNXYzbTAtMS41aDJtMC0xLjV2MyIgLz4KPC9zdmc+Cg==" /> 
 <p align="left">
   <!-- IBM Tools (fixed working badges) -->
   <img src="https://img.shields.io/badge/IBM-ACE-blue?style=for-the-badge" /> 
