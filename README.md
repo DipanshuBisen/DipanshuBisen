@@ -25,7 +25,7 @@ I'm a DevOps Engineer with a strong interest in cloud infrastructure, automation
 
 <p align="left">
   <!-- IBM Tools (fixed working badges) -->
-  <img src="https://img.shields.io/badge/IBM-ACE-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/IBM-ACE-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/IBM-MQ-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/IBM-MQ-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/IBM-APIC-blue?style=for-the-badge" />
 </p>
