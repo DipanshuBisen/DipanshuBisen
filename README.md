@@ -19,16 +19,16 @@ I'm a DevOps Engineer with a strong interest in cloud infrastructure, automation
 
 <table>
 <tr>
-<td align="center" width="80">
-<img src="https://cdn.simpleicons.org/helm/FFFFFF" width="38" height="38"><br>
+<td align="center" width="50">
+<img src="https://cdn.simpleicons.org/helm/FFFFFF" width="50" height="50"><br>
 </td>
 
-<td align="center" width="80">
+<td align="center" width="50">
 <img src="https://cdn.simpleicons.org/argo/EF7B4D" width="50" height="50"><br>
 </td>
 
-<td align="center" width="80">
-<img src="https://cdn.simpleicons.org/jfrog/41BF47" width="38" height="38"><br>
+<td align="center" width="50">
+<img src="https://cdn.simpleicons.org/jfrog/41BF47" width="50" height="50"><br>
 </td>
 </tr>
 </table>
