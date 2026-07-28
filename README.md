@@ -16,15 +16,35 @@ I'm a DevOps Engineer with a strong interest in cloud infrastructure, automation
 
 ## 🛠️ Tech Stack & Tools
 
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.row {
+    display: flex;
+    gap: 10px;           /* Space between images */
+    align-items: center;
+}
+
+.block {
+    border: 1px solid #ccc;   /* Optional */
+    padding: 10px;
+}
+</style>
+</head>
+<body>
+
 <div class="row">
     <div class="block">
         <img src="helm.svg" width="48" height="48">
     </div>
-
-  <div class="block">
+    <div class="block">
         <img src="helm.svg" width="48" height="48">
     </div>
 </div>
+
+</body>
+</html>
 
 
 <p align="left">
