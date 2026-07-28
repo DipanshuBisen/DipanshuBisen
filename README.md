@@ -18,11 +18,11 @@ I'm a DevOps Engineer with a strong interest in cloud infrastructure, automation
 
 <div class="row">
     <div class="block">
-        <img src="helm.svg">
+        <img src="helm.svg" width="48" height="48">
     </div>
 
   <div class="block">
-        <img src="helm.svg">
+        <img src="helm.svg" width="48" height="48">
     </div>
 </div>
 
