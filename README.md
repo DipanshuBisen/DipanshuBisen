@@ -41,16 +41,6 @@ I'm a DevOps Engineer with a strong interest in cloud infrastructure, automation
 - Worked on integration flows using IBM App Connect Enterprise (ACE) as part of enterprise system integration.
 
 ---
-
-## GitHub Stats
-
-![Dipanshu's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=DipanshuBisen&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=DipanshuBisen)
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DipanshuBisen&layout=compact&theme=tokyonight)
----
-
 ## Connect
 
 - Email: dipanshubisen15@gmail.com   
